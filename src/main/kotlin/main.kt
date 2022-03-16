@@ -14,7 +14,7 @@ fun main() {
     val accountType2 = "VISA/MIR"
     val previousTransfersInMonthInPennies1 = 66_000_00.0
     val previousTransfersInMonthInPennies2 = 40_000_00.0
-    val transferAmountInPennies1 = 11_050_55.0
+    val transferAmountInPennies1 = 11_000_00.0
     val transferAmountInPennies2 = 50_023_50.0
     val transferAmountInPennies3 = 41_000_00.0
     val df = DecimalFormat("#.##")
