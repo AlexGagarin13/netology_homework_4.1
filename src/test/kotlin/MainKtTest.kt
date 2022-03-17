@@ -16,7 +16,7 @@ class MainKtTest {
             transferAmountInPennies = transferAmountInPennies1
         )
 
-        assertEquals(80.0, result, 0.00001)
+        assertEquals(86.0, result, 0.00001)
     }
 
     @Test
